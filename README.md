@@ -1,3 +1,3 @@
 # Integradora_Practica06_ramales_230570
 
- En esta practica realizaremos la creación, uso, fusión y eliminacion de ramales.
+ En esta practica realizaremos la creación, uso, fusión y eliminacion de ramales para visualizar los cambios.
